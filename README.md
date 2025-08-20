@@ -1,5 +1,11 @@
 # Titanic Survival Prediction
 
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3-orange.svg)
+![Pandas](https://img.shields.io/badge/Pandas-2.0-green.svg)
+![Kaggle](https://img.shields.io/badge/Kaggle-0.74880-success.svg)
+
+
 ### Overview  
 This project uses data analysis and machine learning to predict passenger survival on the Titanic 
 Implemented a pipeline that includes **EDA, feature engineering, model comparison, hyperparameter tuning, and feature importance analysis**.  
@@ -26,8 +32,20 @@ Final model achieved a kaggle score of 0.74880.
 
 ---
 
-### How to Run  
+## How to Run
+
+Clone the repository and open the Jupyter notebook:
+
 ```bash
 git clone https://github.com/KasimM05/Titanic_predictions.git
 cd Titanic_predictions
 jupyter notebook Titanic.ipynb
+
+```
+
+## Requirements
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
