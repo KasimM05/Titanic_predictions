@@ -25,6 +25,15 @@ Final model achieved a kaggle score of 0.74880.
 
 ---
 
+### Summary of different features on a correlation heatmap:
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/b0b28a10-a21e-42d4-a042-d1f1b2c29682" />
+
+### Summary of most imporant features for predictions:
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/e8e0f2c7-83af-4e8c-9022-3203ea717f76" />
+
+
+---
+
 ### Results  
 - **Best Model:** Gradient Boosting Classifier  
 - **Kaggle Score:** **0.74880**  
